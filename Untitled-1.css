@@ -1,0 +1,23 @@
+html{
+    background-color: rgb(247, 190, 223);
+    display: inline-block;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    height:25%;
+    width: 40%;
+    float: right;
+    
+}
+
+span {
+    float: left;
+    
+    display:  inline-block;
+}
+.a {
+    background-color: coral;
+    font-size: 20px;
+}
